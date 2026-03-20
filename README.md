@@ -1,2 +1,3 @@
-# smart-task-manager-kh83
-Automated issue comment bot repository
+# Smart Task Manager Kh83
+
+Automated issue comment bot repository.
